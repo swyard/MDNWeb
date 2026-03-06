@@ -23,6 +23,7 @@ learning web dev https://developer.mozilla.org/en-US/docs/Learn_web_development
 - js https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - web api https://developer.mozilla.org/en-US/docs/Web/API
 - wasm https://developer.mozilla.org/en-US/docs/WebAssembly
+- events https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events
 
 ### Web Resources
 - fonts https://fonts.google.com/
