@@ -17,6 +17,9 @@ learning web dev https://developer.mozilla.org/en-US/docs/Learn_web_development
 - eloquent js book https://eloquentjavascript.net/
 - js must watch https://github.com/bolshchikov/js-must-watch
 
+#### media
+- media https://developer.mozilla.org/en-US/docs/Web/Media
+
 ### References
 - html https://developer.mozilla.org/en-US/docs/Web/HTML
 - css https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -31,5 +34,4 @@ learning web dev https://developer.mozilla.org/en-US/docs/Learn_web_development
 
 
 ### Continue
-- html https://developer.mozilla.org/en-US/docs/Web/HTML
-- media https://developer.mozilla.org/en-US/docs/Web/Media
+- core modules https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
