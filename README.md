@@ -28,6 +28,7 @@ learning web dev https://developer.mozilla.org/en-US/docs/Learn_web_development
 ### Web Resources
 - fonts https://fonts.google.com/
 - firefox devtools https://firefox-source-docs.mozilla.org/devtools-user/index.html
+- resilient web design https://resilientwebdesign.com/
 
 
 ### Continue
